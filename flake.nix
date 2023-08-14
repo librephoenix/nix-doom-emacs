@@ -57,7 +57,7 @@
     explain-pause-mode.flake = false;
     format-all.url = "github:lassik/emacs-format-all-the-code/47d862d40a088ca089c92cd393c6dca4628f87d3";
     format-all.flake = false;
-    nix-straight.url = "github:nix-community/nix-straight.el";
+    nix-straight.url = "github:librephoenix/nix-straight.el?ref=pgtk-patch";
     nix-straight.flake = false;
     nose.url = "github:emacsattic/nose";
     nose.flake = false;
